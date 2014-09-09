@@ -1,7 +1,7 @@
 Class-Pass
 ==========
 
-ISAT 340 Project
+<h2>ISAT 340 Project</h2>
 
 <b>Problem Statement</b>
 
