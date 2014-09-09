@@ -1,7 +1,7 @@
 <h11>Class-Pass</h11>
 ==========
 
-<h2>ISAT 340 Project</h2>
+<h1>ISAT 340 Project</h1>
 
 <b>Problem Statement</b>
 
