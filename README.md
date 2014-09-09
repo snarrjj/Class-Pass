@@ -1,4 +1,4 @@
-Class-Pass
+<h3>Class-Pass</h3>
 ==========
 
 <h2>ISAT 340 Project</h2>
