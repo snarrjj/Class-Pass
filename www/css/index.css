@@ -1,1 +1,5 @@
-
+body {
+            background: url('http://img3.wikia.nocookie.net/__cb20090701214431/alphaprotocol/images/3/3a/Notebook_paper.gif') no-repeat scroll;
+            background-size: 100% 100%;
+            min-height: 700px;
+        }
